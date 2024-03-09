@@ -1,0 +1,16 @@
+﻿No.,Sample name,Tumor budding (TB),Metastasis ,Sample name long
+1,IBC_11B,high,no metastasis,S_IBC_11B_CA_SP0196_P01_B07
+2,TNBC_G03,high,no metastasis,S_TNBC_G03_CA_SP0196_P01_A04
+3,B031,high,metastasis,S_B031_CA_SP0196_P01_B04
+4,TNBC_P04,high,metastasis,S_TNBC_PO4_CA_SP0196_P01_C04
+5,TNBC_P09,high,metastasis,S_TNBC_PO9_CA_SP0196_P01_D07
+6,PC_B_099,high,metastasis,S_PC_B_099_CA_SP0196_P01_D04
+7,PC_B_130,high,metastasis,S_PC_B_130_CA_SP0196_P01_E04
+8,B041,high,metastasis,S_B041_CA_SP0196_P01_F04
+9,TNBC_G01,high,no metastasis,S_TNBC_G01_CA_SP0196_P01_A07
+10,TNBC_G06,low,no metastasis,S_TNBC_G06_CA_SP0196_P01_G04
+11,TNBC_P06,high,no metastasis,S_TNBC_PO6_CA_SP0196_P01_C07
+12,B165,low,no metastasis,S_B165_CA_SP0196_P01_H04
+13,B166,high,no metastasis,S_B166_CA_SP0196_P01_E07
+14,B168,low,no metastasis,S_B168_CA_SP0196_P01_F07
+15,TNBC_G19,high,no metastasis,S_TNBC_G19_CA_SP0196_P01_G07
