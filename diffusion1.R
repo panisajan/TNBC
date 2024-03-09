@@ -11,7 +11,7 @@ g3 = g
 # save(K, file = "K_laplacian.Rdata")
 
 load('K_laplacian.Rdata') ## variable name K
-y_7 = ifelse(V(g3)$name %in% c('NOL4','STAR','C8G','NEIL1','SLC46A3','FRMD6','SCARF2'),1,0)
+y_7 = ifelse(V(g3)$name %in% int$name,1,0)
 
 ## diffusion score
 
